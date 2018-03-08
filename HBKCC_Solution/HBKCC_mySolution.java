@@ -3,7 +3,7 @@ Kevin Nguyen
 HBK Coding Challenge
 2/21/2018
 
-This coding challenge is from HBK where you have a grid of characters and a laser. Lasers illuminates a path, but can also be reflected.
+This coding challenge is from HBK where you have a grid of characters and a laser. Lasers illuminates a path, but it can also be reflected.
 
 
 How to run (linux):
