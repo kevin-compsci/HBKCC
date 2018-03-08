@@ -2,6 +2,14 @@
 Kevin Nguyen
 HBK Coding Challenge
 2/21/2018
+
+This coding challenge is from HBK where you have a grid of characters and a laser. Lasers illuminates a path, but can also be reflected.
+
+
+How to run (linux):
+	1.) open command line and cd into directory folder of where this code is
+	2.) type in "javac *.java" to compile java files
+	3.) type in "java HBKCC_mySolution"
 */
 
 //imports
